@@ -15,8 +15,8 @@ The main task is the classification of patches containing evidence of tumor from
 This is modeled as a binary classification task with one output node and a logistic regression activation function, where 1 corresponds to the "tumor" class and 0 to the non-tumor class. 
 
 Common theme:
-<li> histopathology image input: you may use any of your histopathology datasets, or public data collections <\li>
-<li> continuous or categorical output: a single node output is used for demostration purposes. Similar applications can be derived for multiple node outputs, e.g. multi-class classification tasks. <\li>
+<li> histopathology image input: you may use any of your histopathology datasets, or public data collections 
+<li> continuous or categorical output: a single node output is used for demostration purposes. Similar applications can be derived for multiple node outputs, e.g. multi-class classification tasks. 
 
 #### Part 1: Interpreting 2D CNNs 
 
