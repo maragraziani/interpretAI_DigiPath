@@ -21,11 +21,11 @@ Common theme:
 #### Part 1: Interpreting 2D CNNs 
 
 This part focuses on understanding the decision process on ConvNets with:
-<li> feature and 
-<item> concept attribution
+<li> feature attribution: Class Activation Mapping (CAM) and its Gradient-weighted version 
+<li> concept attribution: Regression Concept Vectors (RCV)
 
-You will work on the implementation of Class Activation Mapping as an example of  heatmaps of salient input pixels. 
-Regression Concept Vectors will be applied to generate complementary explanations in terms of clinically relevant measures such as nuclei area and appearance. 
+You will work on the implementation of Gradient-weighted Class Activation Mapping (Grad-CAM) as an example of feature attribution.
+RCVs will be applied to generate complementary explanations in terms of clinically relevant measures such as nuclei area and appearance. 
 
 #### Part 2: Learning biologica-entities by cell graphs 
 
