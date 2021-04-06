@@ -16,13 +16,13 @@ This is modeled as a binary classification task with one output node and a logis
 
 Common theme:
 <li> histopathology image input: you may use any of your histopathology datasets, or public data collections <\li>
-\li continuous or categorical output: a single node output is used for demostration purposes. Similar applications can be derived for multiple node outputs, e.g. multi-class classification tasks. 
+<li> continuous or categorical output: a single node output is used for demostration purposes. Similar applications can be derived for multiple node outputs, e.g. multi-class classification tasks. <\li>
 
 #### Part 1: Interpreting 2D CNNs 
 
 This part focuses on understanding the decision process on ConvNets with:
-\li feature and 
-\li concept attribution
+<\li> feature and 
+<\ol> concept attribution
 
 You will work on the implementation of Class Activation Mapping as an example of  heatmaps of salient input pixels. 
 Regression Concept Vectors will be applied to generate complementary explanations in terms of clinically relevant measures such as nuclei area and appearance. 
