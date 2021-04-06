@@ -33,3 +33,6 @@ The notebooks and instructions for this part are in the folder 2DCNNs.
 
 Learning at the biological-entity level: cell graph, graph neural networks & explainability  
 Graph Neural Networks will be explained together with their application to cell graphs, showing how they can directly incorporate a higher level of transparency in terms of entity importance, which can be interpreted by graph-pruning. 
+
+## What to do before the workshop: 
+
