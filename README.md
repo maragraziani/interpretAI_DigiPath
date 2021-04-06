@@ -27,6 +27,8 @@ This part focuses on understanding the decision process on ConvNets with:
 You will work on the implementation of Gradient-weighted Class Activation Mapping (Grad-CAM) as an example of feature attribution.
 RCVs will be applied to generate complementary explanations in terms of clinically relevant measures such as nuclei area and appearance. 
 
+The notebooks and instructions for this part are in the folder 2DCNNs. 
+
 #### Part 2: Learning biologica-entities by cell graphs 
 
 Learning at the biological-entity level: cell graph, graph neural networks & explainability  
