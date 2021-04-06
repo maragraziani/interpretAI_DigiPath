@@ -22,7 +22,7 @@ Common theme:
 
 This part focuses on understanding the decision process on ConvNets with:
 <li> feature and 
-<ol> concept attribution
+<item> concept attribution
 
 You will work on the implementation of Class Activation Mapping as an example of  heatmaps of salient input pixels. 
 Regression Concept Vectors will be applied to generate complementary explanations in terms of clinically relevant measures such as nuclei area and appearance. 
