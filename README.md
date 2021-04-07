@@ -36,3 +36,4 @@ Graph Neural Networks will be explained together with their application to cell 
 
 ## What to do before the workshop: 
 
+<li> Get ready by fixing the data setup: run the colab notebook in 2DCNNs/data_setup.ipynb
