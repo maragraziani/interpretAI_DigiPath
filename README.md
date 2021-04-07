@@ -37,3 +37,30 @@ Graph Neural Networks will be explained together with their application to cell 
 ## What to do before the workshop: 
 
 <li> Get ready by fixing the data setup: run the colab notebook in 2DCNNs/data_setup.ipynb
+  
+## Reference papers
+
+
+```
+@article{graziani2020concept,
+title = "Concept attribution: Explaining {{CNN}} decisions to physicians",
+journal = "Computers in Biology and Medicine",
+pages = "103865",
+year = "2020",
+issn = "0010-4825",
+doi = "https://doi.org/10.1016/j.compbiomed.2020.103865",
+author = "Graziani M. and Andrearczyk V. and Marchand-Maillet S. and Müller H."
+}
+
+or
+
+@incollection{graziani2018regression,
+  title={Regression concept vectors for bidirectional explanations in histopathology},
+  author={Graziani, Mara and Andrearczyk, Vincent and M{\"u}ller, Henning},
+  booktitle={Understanding and Interpreting Machine Learning in Medical Image Computing Applications},
+  pages={124--132},
+  year={2018},
+  publisher={Springer, Cham}
+}
+
+```
