@@ -3,7 +3,11 @@
 
 # Introduction to AI Interpretability 
 > Hands-on-session #1. 
+> 
+> Presented by: Mara Graziani (PhD student at HES-SO Valais and University of Geneva)
+>
 > https://colab.research.google.com/github/maragraziani/interpretAI_DigiPath/blob/main/2DCNNs/feature_attribution_demo.ipynb
+> 
 > https://colab.research.google.com/github/maragraziani/interpretAI_DigiPath/blob/main/2DCNNs/concept_attribution_demo.ipynb
 
 The notebooks in this folder will help you to apply Gradient-weighted Class Activation Mapping (Grad-CAM) on you CNN classifier. 
