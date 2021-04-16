@@ -1,5 +1,5 @@
 
-![Logo of the project](https://introinterpretableai.files.wordpress.com/2021/03/cropped-screenshot-2021-03-22-at-17.11.49.png)
+![Logo of the project](https://www.ai4media.eu/wp-content/uploads/2021/04/Twitter_Building-Interpretable-AI-for-Digital-Pathology-1024x575.png)
 
 # Introduction to AI Interpretability 
 > Hands-on-session #1. 
