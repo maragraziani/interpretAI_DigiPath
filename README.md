@@ -1,7 +1,8 @@
 
 ![Logo of the project](https://www.ai4media.eu/wp-content/uploads/2021/04/Twitter_Building-Interpretable-AI-for-Digital-Pathology-1024x575.png)
-
-# Building Interpretable Artificial Intelligence (AI) for Digital Pathology 
+>
+> Presented by: Mara Graziani (HES-SO Valais and UniGe), Guillaume Jaume (IBM Zurich and EPFL Lausanne) and Pushpak Pati (IBM Zurich and ETH Zurich)
+>
 
 Deep learning algorithms may hide inherent risks such as the codification of biases, weak accountability and bare transparency of the decision-making. Giving little insights about their final output, deep models are perceived by clinicians as black-boxes. 
 Clinicians, on their side, are the sole people legally responsible and accountable for the diagnoses and treatment decisions. 
