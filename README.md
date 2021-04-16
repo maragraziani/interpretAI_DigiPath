@@ -1,5 +1,7 @@
-# Building Interpretable Artificial Intelligence (AI) for Digital Pathology 
 
+![Logo of the project](https://www.ai4media.eu/wp-content/uploads/2021/04/Twitter_Building-Interpretable-AI-for-Digital-Pathology-1024x575.png)
+
+# Building Interpretable Artificial Intelligence (AI) for Digital Pathology 
 
 Deep learning algorithms may hide inherent risks such as the codification of biases, weak accountability and bare transparency of the decision-making. Giving little insights about their final output, deep models are perceived by clinicians as black-boxes. 
 Clinicians, on their side, are the sole people legally responsible and accountable for the diagnoses and treatment decisions. 
