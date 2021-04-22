@@ -10,6 +10,11 @@ Providing justifications for automated predictions may have a positive impact of
 
 This repository is created with the purpose of showcasing multiple ways in which developers may interpret automated decision making for digital pathology. The repository provides the necessary material for the anonymous workshop at the Applied Machine Learning Days of EPFL 2021. 
 
+## What to do before the workshop: 
+
+<li> Clone the git repo, launch jupyter and open the hands-on-session. 
+<li> Open [this notebook](https://colab.research.google.com/drive/1MdBM7AJWow572IvicGYFaBy23TjGw9u6?usp=sharing) on Colab and connect it to your Drive account by running the cells in "Installation and Data". 
+
 #### The problem
 
 You have a deep learning model, may it be a Convolutional Neural Network (CNN) or a graph-netork. 
@@ -37,9 +42,6 @@ The notebooks and instructions for this part are in the folder 2DCNNs.
 Learning at the biological-entity level: cell graph, graph neural networks & explainability  
 Graph Neural Networks will be explained together with their application to cell graphs, showing how they can directly incorporate a higher level of transparency in terms of entity importance, which can be interpreted by graph-pruning. 
 
-## What to do before the workshop: 
-
-<li> Get ready by fixing the data setup: run the colab notebook in [2DCNNs/data_setup.ipynb] (https://github.com/maragraziani/interpretAI_DigiPath/blob/main/2DCNNs/data_setup.ipynb)
   
   
 ## Reference papers
