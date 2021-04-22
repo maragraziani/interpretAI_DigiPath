@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import numpy as np
+
 
 def show_inline(image, title=''):
     f, ax = plt.subplots(1, 1, figsize=(10,10))
@@ -8,6 +10,7 @@ def show_inline(image, title=''):
     ax.imshow(image)
     ax.set_title(title)
     plt.show()
+
 
 def get_patches(out, k, patch_size=36):
     image = out['image']
@@ -29,6 +32,7 @@ def get_patches(out, k, patch_size=36):
                 :]
         patches.append(patch)
     return patches
+
 
 def plot_patches(patches, ncol=5, patch_size=36):
     nrow = len(patches) // ncol
