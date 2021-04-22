@@ -22,7 +22,7 @@ def get_patches(out, k, patch_size=36):
                    mode="constant",
                    constant_values=255)
     important_indices = (-importance_scores).argsort()[:k]
-    important_centroids = graph.ndata['centroid'][important_indices, :].numpy().astype(int)
+    important_centroids = graph.ndata['centroid'][important_indices, :].cpu().numpy().astype(int)
 
     patches = []
     for i in range(k):
