@@ -9,7 +9,7 @@ def show_inline(image, title=''):
     ax.set_title(title)
     plt.show()
 
-def get_patches(out, k, patch_size=72):
+def get_patches(out, k, patch_size=36):
     image = out['image']
     graph = out['graph']
     importance_scores = out['importance_scores']
@@ -30,7 +30,7 @@ def get_patches(out, k, patch_size=72):
         patches.append(patch)
     return patches
 
-def plot_patches(patches, ncol=5, patch_size=72):
+def plot_patches(patches, ncol=5, patch_size=36):
     nrow = len(patches) // ncol
     patches = np.stack(patches, axis=0)
     patches = np.reshape(patches, newshape=(nrow, ncol, patch_size, patch_size, 3))
@@ -47,8 +47,3 @@ def plot_patches(patches, ncol=5, patch_size=72):
             grid = np.vstack((grid, grid_))
 
     show_inline(grid)
-
-def plot_ratio(count, ratio, title=''):
-    plt.plot(count, ratio)
-    plt.title(title)
-    plt.show()
