@@ -13,7 +13,7 @@ This repository is created with the purpose of showcasing multiple ways in which
 ## What to do before the workshop: 
 
 <li> Clone the git repo, launch jupyter and open the hands-on-session. 
-<li> Open this [Colab notebook](./hands-on-session-1/concept-attribution-demo.ipynb) and connect it to your Drive account by running the cells in "Installation and Data". 
+<li> Open this <a href="https://colab.research.google.com/drive/1MdBM7AJWow572IvicGYFaBy23TjGw9u6?usp=sharing"> Colab notebook </a> and connect it to your Drive account by running the cells in "Installation and Data". 
 
 #### The problem
 
