@@ -31,7 +31,7 @@ The workshop will take place on the 27th of April from 9:00 to 12:00 CET.
 
 | Time      | Title                                | Presenter              |                  
 |-----------|--------------------------------------|------------------------|
-| 9:00-9:05 | Welcome                                | TBD                    |
+| 9:00-9:05 | Welcome                                | Guillaume Jaume, Pushpak Pati|
 | 9:05-9:25 | Introduction to Digital Pathology      | Prof. Dr. Inti Zlobec  |
 | 9:25-9:45 | Introduction to Interpretability       | Mara Graziani          |
 | 9:45-9:55 | Break 1                                | -                      |
