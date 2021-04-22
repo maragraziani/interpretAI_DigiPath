@@ -96,32 +96,28 @@ The second part of this tutorial will guide you to build **interpretable entity-
 
 
 ```
-@article{graziani2020concept,
-title = "Concept attribution: Explaining {{CNN}} decisions to physicians",
-journal = "Computers in Biology and Medicine",
-pages = "103865",
-year = "2020",
-issn = "0010-4825",
-doi = "https://doi.org/10.1016/j.compbiomed.2020.103865",
-author = "Graziani M. and Andrearczyk V. and Marchand-Maillet S. and Müller H."
+@article{graziani2020,
+    title = "Concept attribution: Explaining {{CNN}} decisions to physicians",
+    author = "Mara Graziani, Vincent Andrearczyk, Stephane Marchand-Maillet, Henning Müller"
+    booktitle = "Computers in Biology and Medicine",
+    pages = "103865",
+    year = "2020",
+    doi = "https://doi.org/10.1016/j.compbiomed.2020.103865"
 }
-
-
-@incollection{graziani2018regression,
-  title={Regression concept vectors for bidirectional explanations in histopathology},
-  author={Graziani, Mara and Andrearczyk, Vincent and M{\"u}ller, Henning},
-  booktitle={Understanding and Interpreting Machine Learning in Medical Image Computing Applications},
-  pages={124--132},
-  year={2018},
-  publisher={Springer, Cham}
-}
-
 
 @inproceedings{pati2021,
-    title = {Quantifying Explainers of Graph Neural Networks in Computational Pathology},
-    author = {Guillaume Jaume, Pushpak Pati, Behzad Bozorgtabar, Antonio Foncubierta-Rodríguez, Florinda Feroce, Anna Maria Anniciello, Tilman Rau, Jean-Philippe Thiran, Maria Gabrani, Orcun Goksel},
-    booktitle = {CVPR},
-    url = {https://arxiv.org/abs/2011.12646},
-    year = {2021}
+    title = "Hierarchical Graph Representations in Digital Pathology",
+    author = "Pushpak Pati, Guillaume Jaume, Antonio Foncubierta, Florinda Feroce, Anna Maria Anniciello, Giosuè Scognamiglio, Nadia Brancati, Maryse Fiche, Estelle Dubruc, Daniel Riccio, Maurizio Di Bonito, Giuseppe De Pietro, Gerardo Botti, Jean-Philippe Thiran, Maria Frucci, Orcun Goksel, Maria Gabrani",
+    booktitle = "arXiv",
+    url = "https://arxiv.org/abs/2102.11057",
+    year = "2021"
+} 
+
+@inproceedings{jaume2021,
+    title = "Quantifying Explainers of Graph Neural Networks in Computational Pathology",
+    author = "Guillaume Jaume, Pushpak Pati, Behzad Bozorgtabar, Antonio Foncubierta-Rodríguez, Florinda Feroce, Anna Maria Anniciello, Tilman Rau, Jean-Philippe Thiran, Maria Gabrani, Orcun Goksel",
+    booktitle = "IEEE CVPR",
+    url = "https://arxiv.org/abs/2011.12646",
+    year = "2021"
 } 
 ```
