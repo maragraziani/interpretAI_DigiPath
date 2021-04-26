@@ -12,10 +12,14 @@ def show_inline(image, title=''):
     plt.show()
 
 
-def get_patches(out, k, patch_size=36):
+def get_patches(out, k, patch_size=36, random=False):
     image = out['image']
     graph = out['graph']
-    importance_scores = out['importance_scores']
+
+    if random:
+        importance_scores = np.random.uniform(size=out['importance_scores'].size)
+    else:
+        importance_scores = out['importance_scores']
 
     image = np.pad(image,
                    ((patch_size, patch_size), (patch_size, patch_size), (0, 0)),
