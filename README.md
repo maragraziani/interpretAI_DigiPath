@@ -31,14 +31,14 @@ The workshop will take place on the 27th of April from 9:00 to 12:00 CET.
 
 | Time      | Title                                | Presenter              |                  
 |-----------|--------------------------------------|------------------------|
-| 9:00-9:05 | Welcome                                | Guillaume Jaume, Pushpak Pati|
+| 9:00-9:05 | Welcome                                | Guillaume Jaume        |
 | 9:05-9:25 | Introduction to Digital Pathology      | Prof. Dr. Inti Zlobec  |
 | 9:25-9:45 | Introduction to Interpretability       | Mara Graziani          |
 | 9:45-9:55 | Break 1                                | -                      |
 | 9:55-10:35 | Hands-on session 1: CNNs & Concept Attribution | Mara Graziani |
 | 10:35-10:45 | Break 2                              | -                      |
 | 10:45-11:55 | Hands-on session 2: Graph-based interpretability | Guillaume Jaume, Pushpak Pati |
-| 11:55-12:00 | Closing remarks                      | -                      |
+| 11:55-12:00 | Closing remarks                      | Pushpak Pati           |
 
 ## What to do before the workshop: 
 
